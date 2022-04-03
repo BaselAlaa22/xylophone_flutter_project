@@ -1,6 +1,6 @@
-# xylophone_flutter
+# Xylophone Flutter Project
 
-A new Flutter project.
+This is one of my first project with flutter. Like the name says it's just a xylophone but the secret here is in code refactoring and clean code. 
 
 ## Getting Started
 
